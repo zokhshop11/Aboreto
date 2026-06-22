@@ -8,6 +8,57 @@ https://scripts.sil.org/OFL
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 -----------------------------------------------------------
+https://tiktok.com/@zokhshop, ▄| ＺＯＫＨ'ＳＨＯＰ |▄ 
+#𝓣𝓲𝓴𝓣𝓸𝓴𝓢𝓱𝓸𝓹𝓜𝓪𝓵𝓪𝔂𝓼𝓲𝓪 #𝓡𝓪𝓬𝓾𝓷𝓣𝓲𝓴𝓣𝓸𝓴 #𝔃𝓸𝓴𝓱𝓼𝓱𝓸𝓹 , ```html
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZOKHSHOP | Hab Rasmi</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap');
+        body { font-family: 'Poppins', sans-serif; background: #fdf2f4; }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+    <div class="max-w-md mx-auto bg-white p-6 rounded-3xl shadow-xl border border-pink-100">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl font-extrabold text-black mb-1 tracking-tighter">ＺＯＫＨ'ＳＨＯＰ</h1>
+            <p class="text-pink-600 text-sm font-semibold tracking-widest uppercase">Hab Rasmi & Produk</p>
+        </header>
+
+        <!-- Notis Keselamatan -->
+        <div class="bg-red-50 border-l-4 border-red-500 p-4 mb-6 rounded-r-lg">
+            <p class="text-red-700 text-sm font-bold">⚠️ NOTIS KESELAMATAN</p>
+            <p class="text-red-600 text-xs mt-1">Sila berhati-hati dengan pautan pihak ketiga. Pastikan semua transaksi dilakukan melalui aplikasi TikTok rasmi atau Seller Center.</p>
+        </div>
+
+        <div class="space-y-4">
+            <a href="https://www.tiktok.com/@zokhshop" class="block w-full bg-black text-white py-4 rounded-xl text-center font-bold hover:opacity-90 transition">
+                🛍️ Layari @zokhshop di TikTok
+            </a>
+            <a href="https://vt.tiktok.com/ZSh2ytMMN/" class="block w-full bg-pink-500 text-white py-4 rounded-xl text-center font-bold hover:bg-pink-600 transition">
+                💥 Lihat Pameran ZOKHSHOP
+            </a>
+            <a href="https://vt.tiktok.com/ZShex74UG/" class="block w-full bg-rose-600 text-white py-4 rounded-xl text-center font-bold hover:bg-rose-700 transition">
+                🎟️ Tuntut Baucar 20% Off!
+            </a>
+            <a href="https://bytedance.larkoffice.com/wiki/KO7owsU2OiBZmokMyDocG6qmn5c" class="block w-full bg-blue-600 text-white py-4 rounded-xl text-center font-bold hover:bg-blue-700 transition">
+                📖 SOP & Wiki Pasukan
+            </a>
+        </div>
+
+        <footer class="mt-10 text-center">
+            <p class="text-xs text-gray-400 italic mb-4">#𝓣𝓲𝓴𝓣𝓸𝓴𝓢𝓱𝓸𝓹𝓜𝓪𝓵𝓪𝔂𝓼𝓲𝓪 #𝓡𝓪𝓬𝓾𝓷𝓣𝓲𝓴𝓣𝓸𝓴 #𝔃𝓸𝓴𝓱𝓼𝓱𝓸𝓹</p>
+            <div class="text-[10px] text-gray-300 font-mono">© 2026 ZOKHSHOP OPERATIONS</div>
+        </footer>
+    </div>
+</body>
+</html>
+
+```
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
